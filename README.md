@@ -29,7 +29,7 @@ A packet sniffer — also known as a packet analyzer, protocol analyzer or netwo
   
 ## Screenshot
 
-[![Screenshot](https://user-images.githubusercontent.com/45127777/160874683-6d58f56c-3aab-43dc-acfd-806f90e83ae3.jpg)
+![Screenshot](https://user-images.githubusercontent.com/45127777/160874683-6d58f56c-3aab-43dc-acfd-806f90e83ae3.jpg)
 
 ![Screenshot](https://user-images.githubusercontent.com/45127777/160879516-8568568d-5e4c-4d64-a869-f79d097092cd.jpg)
 
